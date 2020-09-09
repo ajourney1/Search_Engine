@@ -1,3 +1,3 @@
 # Search_Engine
 
-A console based search engine which perform queries on prebuilt wikipedia articles. Queries are of type: Single word, multiple text and phrase queries. Documents are returned on the basis of their tf-idf score. 
+A console-based search engine that performs queries on prebuilt Wikipedia articles. Queries are of the type: Single word, multiple texts, and phrase queries. Documents are returned based on their tf-idf scoring. 
