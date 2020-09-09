@@ -116,8 +116,8 @@ class CreateIndex:
 				self.mainindex[current_term].append(current_positions)
 			#print(self.termfrequency)
 			#print(self.mainindex)
-			if count == 1:
-				break
+			#if count == 1:
+				#break
 		self.writetofile()
 
 if __name__=="__main__":
