@@ -1,0 +1,5 @@
+Python 3.7.1
+Conda 4.8.0
+Notepad++ 7.6.3
+c++14
+windows10 x64 i5
